@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+
+    
+}
+footer {
+    width: 100%;
+    height: 35vh;
+    position: absolute;
+    background-color:rgb(47, 49, 52) ;
+    color: #fff;
+   
+   
+}
+.col {
+    width: 85%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: space-between;
+
+}
+.c{
+    padding: 12px;
+    margin: 12px;
+}
+.deakin{
+  
+    justify-content: center;
+}
+
+ .support{
+    width:fit-content;
+   
+    position: relative;
+    margin-left: 200px;
+    margin-top: 30px;
+} 
+
+
+.d{
+    width:auto;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 510px;
+    align-items: flex-start;
+}
+
+

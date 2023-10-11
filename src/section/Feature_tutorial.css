@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.a{
+    display: flex;
+    padding: 30px;
+    justify-content: space-between;
+    
+}
